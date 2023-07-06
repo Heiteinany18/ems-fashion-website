@@ -1,0 +1,23 @@
+/*  font-family: Abel  */
+@font-face {
+  font-family: Abel;
+  src: url("../font/Abel/Abel-Regular.ttf");
+}
+
+/*  font-family: Roboto-Regular  */
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto/Roboto-Light.ttf");
+}
+
+/*  font-family: LibreBodoni  */
+@font-face {
+  font-family: LibreBodoni;
+  src: url("../font/LibreBodoni/LibreBodoni-Italic-VariableFont_wght.ttf");
+}
+
+/*  font-family: LibreBodoni-Medium  */
+@font-face {
+  font-family: LibreBodoni-Medium;
+  src: url("../font/LibreBodoni/LibreBodoni-Medium.ttf");
+}
